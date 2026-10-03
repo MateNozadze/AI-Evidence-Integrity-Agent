@@ -1,6 +1,6 @@
 <!-- Language Switcher Bar -->
 <p align="right">
-  <a href="#-english"><b>English</b></a> | <a href="#-ქართული"><b>ქართული</b></a>
+  <a href="#-english"><b>English</b></a> 
 </p>
 
 ---
